@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>a4cd8055-e631-4a6c-b402-b0d42b885578</UserSecretsId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <PackageReference Include="Legacy2CPSWorkaround" Version="1.0.0">
+    <PrivateAssets>All</PrivateAssets>
+  </PackageReference>
+    <PackageReference Include="Autofac" Version="4.8.1" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.DynamicLinq" Version="1.0.8.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Redis.Core" Version="1.0.3" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="Ninject" Version="3.3.4" />
+    <PackageReference Include="NMemory" Version="2.0.3" />
+    <PackageReference Include="ServiceStack" Version="5.5.0" />
+    <PackageReference Include="ServiceStack.OrmLite.Oracle.Managed" Version="4.0.33.2" />
+    <PackageReference Include="ServiceStack.OrmLite.SqlServer" Version="5.5.0" />
+    <PackageReference Include="ServiceStack.Redis" Version="5.5.0" />
+    <PackageReference Include="ServiceStack.Redis.Complete" Version="1.0.0" />
+    <PackageReference Include="SoapHttpClient" Version="2.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Data">
+      <HintPath>..\Data\bin\Debug\netstandard2.0\Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Managers">
+      <HintPath>..\Managers\bin\Debug\netstandard2.0\Managers.dll</HintPath>
+    </Reference>
+    <Reference Include="Model">
+      <HintPath>..\Model\bin\Debug\netstandard2.0\Model.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack">
+      <HintPath>..\..\..\..\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Common">
+      <HintPath>..\..\..\..\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces">
+      <HintPath>..\..\..\..\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.OrmLite">
+      <HintPath>..\..\..\..\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.OrmLite.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.OrmLite.SqlServer">
+      <HintPath>..\..\..\..\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.OrmLite.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Redis">
+      <HintPath>..\..\..\..\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.ServiceInterface">
+      <HintPath>..\..\..\..\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.ServiceInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Text">
+      <HintPath>..\..\..\..\Console1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Text.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

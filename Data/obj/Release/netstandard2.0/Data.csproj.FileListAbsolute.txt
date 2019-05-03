@@ -1,0 +1,24 @@
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\bin\Release\netstandard2.0\Data.deps.json
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\bin\Release\netstandard2.0\Data.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\bin\Release\netstandard2.0\Data.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\bin\Release\netstandard2.0\Model.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\bin\Release\netstandard2.0\Model.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\obj\Release\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\obj\Release\netstandard2.0\Data.AssemblyInfoInputs.cache
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\obj\Release\netstandard2.0\Data.AssemblyInfo.cs
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\obj\Release\netstandard2.0\Data.csproj.CopyComplete
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\obj\Release\netstandard2.0\Data.dll
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\obj\Release\netstandard2.0\Data.pdb
+F:\CopyDVD\Angular5\.Net Core Web API\DotNetCoreWebAPI\Data\obj\Release\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\bin\Release\netstandard2.0\Data.deps.json
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\bin\Release\netstandard2.0\Data.dll
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\bin\Release\netstandard2.0\Data.pdb
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\bin\Release\netstandard2.0\Model.dll
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\bin\Release\netstandard2.0\Model.pdb
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\obj\Release\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\obj\Release\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\obj\Release\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\obj\Release\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\obj\Release\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\obj\Release\netstandard2.0\Data.dll
+C:\Users\AntônioCarlosMeloMun\Desktop\dotnetcore-codefirst-master\Data\obj\Release\netstandard2.0\Data.pdb

@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AntônioCarlosMeloMun\\Desktop\\dotnetcore-codefirst-master\\DotNetCoreWebAPI\\DotNetCoreWebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AntônioCarlosMeloMun\\Desktop\\dotnetcore-codefirst-master\\DotNetCoreWebAPI\\DotNetCoreWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AntônioCarlosMeloMun\\Desktop\\dotnetcore-codefirst-master\\DotNetCoreWebAPI\\DotNetCoreWebAPI.csproj",
+        "projectName": "DotNetCoreWebAPI",
+        "projectPath": "C:\\Users\\AntônioCarlosMeloMun\\Desktop\\dotnetcore-codefirst-master\\DotNetCoreWebAPI\\DotNetCoreWebAPI.csproj",
+        "packagesPath": "C:\\Users\\AntônioCarlosMeloMun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AntônioCarlosMeloMun\\Desktop\\dotnetcore-codefirst-master\\DotNetCoreWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AntônioCarlosMeloMun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Legacy2CPSWorkaround": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.DynamicLinq": {
+              "target": "Package",
+              "version": "[1.0.8.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Caching.Redis.Core": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NMemory": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            },
+            "ServiceStack": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "ServiceStack.OrmLite.Oracle.Managed": {
+              "target": "Package",
+              "version": "[4.0.33.2, )"
+            },
+            "ServiceStack.OrmLite.SqlServer": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "ServiceStack.Redis": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "ServiceStack.Redis.Complete": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "SoapHttpClient": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
